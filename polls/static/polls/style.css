@@ -1,0 +1,5 @@
+body{
+background: pink url("images/win.jpg") no-repeat;
+background-position: right top;}
+
+li a{color:green;}
